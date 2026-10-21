@@ -1,0 +1,9 @@
+.DS_Store
+.obsidian/
+.vscode/
+.idea/
+.env
+.env.*
+private/
+*.key
+*.pem
